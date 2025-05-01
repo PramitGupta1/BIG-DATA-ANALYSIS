@@ -76,3 +76,7 @@ This project clearly illustrates how Dask can be leveraged to process and analyz
 ##OUT PUT 
 
 ![Image](https://github.com/user-attachments/assets/d3eb6f2a-d67c-4ed7-a0c4-8c7d86568968)
+
+![Image](https://github.com/user-attachments/assets/b9ddb40b-3844-40f3-a2a8-55e486b6800b)
+
+
