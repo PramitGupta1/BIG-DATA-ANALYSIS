@@ -72,3 +72,7 @@ Versatility: While this project demonstrates a simple use-case, Dask can handle 
 
 📌 Conclusion
 This project clearly illustrates how Dask can be leveraged to process and analyze big datasets effectively in Python. By simulating a high-volume product review dataset, the notebook walks through a practical data pipeline—starting from data generation and ending in visualization. The key takeaway is that Dask offers an efficient, scalable, and user-friendly alternative to pandas when working with large data volumes. It’s an essential tool for any data analyst or scientist dealing with real-world, high-volume data.
+
+##OUT PUT 
+
+![Image](https://github.com/user-attachments/assets/d3eb6f2a-d67c-4ed7-a0c4-8c7d86568968)
